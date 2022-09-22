@@ -5,4 +5,4 @@ After the cloud formation I tried to map the location to their respective counti
 
 Link to Tableau Dashboard : https://public.tableau.com/views/MSANonMSA-CyberSecurityJobsAvailabilityBasedonUSAJobPostings/USAJOBS_MSA2?:language=en-US&:display_count=n&:origin=viz_share_link
 
-The dashboard is formed as a two layer map where the base layer segregates the MSA and Non-MSA regions in the USA.The secound layer __
+The dashboard is formed as a two layer map where the base layer segregates the MSA and Non-MSA regions in the USA.The secound layer shows the availability of jobs represnted by a legend and text displaying the exact count
